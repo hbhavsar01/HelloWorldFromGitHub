@@ -1,0 +1,6 @@
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHubTest\bin\Release\HelloWorldFromGitHubTest.dll
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHubTest\bin\Release\HelloWorldFromGitHubTest.pdb
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHubTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHubTest\obj\Release\HelloWorldFromGitHubTest.csprojResolveAssemblyReference.cache
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHubTest\obj\Release\HelloWorldFromGitHubTest.dll
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHubTest\obj\Release\HelloWorldFromGitHubTest.pdb

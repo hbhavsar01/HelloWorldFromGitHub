@@ -1,0 +1,6 @@
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHub\bin\Debug\HelloWorldFromGitHub.exe.config
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHub\bin\Debug\HelloWorldFromGitHub.exe
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHub\bin\Debug\HelloWorldFromGitHub.pdb
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHub\obj\Debug\HelloWorldFromGitHub.csprojResolveAssemblyReference.cache
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHub\obj\Debug\HelloWorldFromGitHub.exe
+C:\Users\hiren.bhavsar\Desktop\MDFG_Work\VS2015\HelloWorldFromGitHub\HelloWorldFromGitHub\obj\Debug\HelloWorldFromGitHub.pdb
