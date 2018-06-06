@@ -11,7 +11,7 @@ namespace HelloWorldFromGitHubTest
         {
             string text = "Hello World!";
 
-            Assert.AreEqual("Hello World", text);
+            Assert.AreEqual("Hello World!", text);
         }
     }
 }
